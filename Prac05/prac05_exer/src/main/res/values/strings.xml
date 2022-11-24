@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">20205220 Lee Bada</string>
+    <string name="profile">PROFILE</string>
+    <string name="list_act">List activity</string>
+    <string name="profile_name">name : Lee Bada</string>
+    <string name="profile_education">education : Department of Software, Hallym University</string>
+    <string name="profile_contact">contact : 010-2659-1559</string>
+    <string name="profile_email">email : yeebada0@gmail.com</string>
+    <string name="txt_btn">Next</string>
+</resources>

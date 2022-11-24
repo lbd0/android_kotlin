@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">20205220 이바다</string>
+    <string name="profile">프로필</string>
+    <string name="list_act">리스트 액티비티 입니다.</string>
+    <string name="profile_name">이름 : 이바다</string>
+    <string name="profile_education">학력 : 한림대학교 소프트웨어학부</string>
+    <string name="profile_contact">연락처 : 010-2659-1559</string>
+    <string name="profile_email">이메일 : yeebada0@gmail.com</string>
+    <string name="txt_btn">다음</string>
+</resources>

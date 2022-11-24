@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Portfolio</string>
+    <string name="profile">PROFILE</string>
+    <string name="list_act">List activity</string>
+    <string name="profile_name">name : Lee Bada</string>
+    <string name="profile_education">education : Department of Software, Hallym University</string>
+    <string name="profile_contact">contact : 010-2659-1559</string>
+    <string name="profile_email">email : yeebada0@gmail.com</string>
+    <string name="txt_btn">Next</string>
+    <string name="smart_pot">Smart Pot는 아두이노를 사용하여 흙의 수분도를 측정하고 습도에 따라 물을 자동으로 공급해주며, 식물 생장에 도움이 되는 조명과 수분도와 실내 온도를 출력해 주는 LCD판이 있습니다.
+    또한 블루투스 모듈을 사용하여 안드로이드 스마트폰과 상호작용이 가능합니다.</string>
+    <string name="exit_zombie">Exit Zombie는 FPS방식의 타임어택 게임으로 제한 시간안에 생성되는 좀비와 싸우며 아이템을 얻고, 건물을 탐색하여 얻은 단서로 옥상으로 가는 엘리베이터의 비밀번호를 추리한 후 탈출해야 합니다.</string>
+    <string name="heli_fire">Heli Fire는 플레이어를 방해하는 공중 적과 건물을 공격하는 지상 적을 제거하며 자동으로 이동하는 헬기를 타고 최종 목적지에 도착하는 FPS 슈팅게임입니다.</string>
+</resources>
