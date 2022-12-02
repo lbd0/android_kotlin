@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Prac10"
 include ':app'
+include ':prac10_database'
+include ':prac10_database:prac10_database'

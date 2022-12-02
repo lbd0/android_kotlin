@@ -15,17 +15,17 @@
 
         <EditText
             android:id="@+id/edit_name"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:hint="이름"
-            android:layout_weight="2"/>
+            android:layout_weight="1"/>
 
         <EditText
             android:id="@+id/edit_phone"
-            android:layout_width="match_parent"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:hint="휴대폰번호"
-            android:layout_weight="1"
+            android:layout_weight="2"
             android:inputType="phone"/>
     </LinearLayout>
 
